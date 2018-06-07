@@ -116,10 +116,10 @@ HEADER
 ***********************************/
 
 .header {
-  
+
   background-size: cover;
   min-height: 650px;
-  position: 
+  position:
 }
 
 .banner{
@@ -250,12 +250,12 @@ h2.bnr-sub-title {
 .btn-more, .btn-more:focus {
   margin-left: 15px;
   border: 1px solid #be9e21;
-  color: #be9e21;
+  background: #be9e21;
+  color: #fff;
 }
 
 .btn-more:hover {
-  background: #be9e21;
-  color: #fff;
+
 }
 
 .overlay-detail a i {
@@ -857,4 +857,11 @@ Responsive media queries
     line-height: 22px;
     text-align: center;
   }
+}
+
+
+#logo {
+  padding-left: 40px;
+  width: 200px;
+  height: 200px;
 }
